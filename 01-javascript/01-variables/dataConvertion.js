@@ -38,7 +38,7 @@
  * u Boolean vraca false.
  */
 
-// WRITE YOUR CODE BELOW
+// // WRITE YOUR CODE BELOW
  const employeeId = "105"
  const employeeName = "Marko"
  const hourlyRate = "20.50"

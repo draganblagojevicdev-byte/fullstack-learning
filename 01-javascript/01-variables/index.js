@@ -43,3 +43,21 @@ two variables with two same asginment
 // console.log(`Driver: ${workingHours}`);
 // console.log(`Driver: ${isEmploye}`);
 // console.log(`Driver: ${grossSalary}`);
+// const temperature = 15;
+
+// if (temperature >= 30){
+//     console.log("Hot");
+    
+// }else if (temperature >= 20){
+//     console.log("Warm");
+    
+// }else{
+//     console.log("Cold");
+    
+// }
+
+const age = 26
+
+const status = age >= 18 ? "Adult" : "Minor"
+
+console.log(status);
